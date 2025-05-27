@@ -1,0 +1,7 @@
+path: C:\Users\USER\Desktop\畢業專題\希望是最終版\images 
+train: C:\Users\USER\Desktop\畢業專題\希望是最終版\images\train
+val:  C:\Users\USER\Desktop\畢業專題\希望是最終版\images\val
+test: C:\Users\USER\Desktop\畢業專題\希望是最終版\test
+
+nc: 1
+names: ["betta"]
